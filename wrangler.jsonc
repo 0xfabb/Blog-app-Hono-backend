@@ -7,10 +7,10 @@
   //   "nodejs_compat"
   // ],
   "vars": {
-    "GEMINI_API_KEY": "AIzaSyB2jPYgi0HoJvxYQplVc1uJNM7G-K-RWYo",
-    "geminiUrl" : "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB2jPYgi0HoJvxYQplVc1uJNM7G-K-RWYo",
-    "DATABASE_URL": "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMWRhM2IwYzctNjQ1MS00NjE5LWI4NzEtZWYwM2NiZjcxNGRhIiwidGVuYW50X2lkIjoiOGI5ZGVjYmQzNTg5MDQwN2QwM2RhMjI1YzY2Y2RhN2I0ZGQ5OGRkZGRiZjI4ODFjOTE1NmVmZGFmMjk0Yzc0NSIsImludGVybmFsX3NlY3JldCI6IjgyOGM2ZTgxLTQ3NDYtNDJhZi1hMTMxLWIyZjhhNjk1ODFjNSJ9.m9GTNmZZ-8IXWCqEyBfLlRX1BHxxYxQDFz68wk9oMGg",
-    "JWT_SECRET": "Pheonix"
+    "GEMINI_API_KEY": "API"
+    "geminiUrl" : "url",
+    "DATABASE_URL": "url",
+    "JWT_SECRET": "phe"
   },
   // "kv_namespaces": [
   //   {
